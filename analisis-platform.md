@@ -12,4 +12,8 @@ tugas pbp
 | **Contoh aplikasi** | Discord Web Client (`https://discord.com/app`) |  Discord Desktop Client (App untuk Windows / macOS / Linux) | Discord Mobile App (Android App & iOS App) |
 
 Daftar pustaka
-Discord Mobile : Digital Forensic Analysis of Discord Mobile Application on Android Based Smartphones: https://dergipark.org.tr/en/pub/acin/article/1109682?issue_id=71221 Discord web : Discord For Dummies: https://www.google.com/books?hl=id&lr=&id=eXvpDwAAQBAJ&oi=fnd&pg=PR3&dq=discord+deskto p&ots=yKzVpiJL90&sig=qBL_mfUGFPy8UaA-7P5MDdBIj34 Discord dekstop : Online Social Status: A Critical Discord Analysis: https://studenttheses.uu.nl/items/f501a01a-9497-4690-8d00-e394b1a7a10b 
+Discord Mobile : Digital Forensic Analysis of Discord Mobile Application on Android Based Smartphones: https://dergipark.org.tr/en/pub/acin/article/1109682?issue_id=71221 
+
+Discord web : Discord For Dummies: https://www.google.com/books?hl=id&lr=&id=eXvpDwAAQBAJ&oi=fnd&pg=PR3&dq=discord+deskto p&ots=yKzVpiJL90&sig=qBL_mfUGFPy8UaA-7P5MDdBIj34 
+
+Discord dekstop : Online Social Status: A Critical Discord Analysis: https://studenttheses.uu.nl/items/f501a01a-9497-4690-8d00-e394b1a7a10b 
